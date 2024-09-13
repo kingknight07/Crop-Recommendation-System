@@ -93,6 +93,6 @@ Classification Report:
           39       1.00      1.00      1.00      1287
 
     accuracy                           0.95     18079
-   macro avg       0.98      0.98      0.98     18079
-weighted avg       0.95      0.95      0.95     18079
+    macro avg       0.98      0.98      0.98     18079
+    weighted avg       0.95      0.95      0.95     18079
 
