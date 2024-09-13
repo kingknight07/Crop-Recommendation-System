@@ -10,7 +10,7 @@
 - Last updated: Fri, 06/21/2024
 - DOI: 10.21227/3ays-5h79
 
-
+   
 # Features
 - **Accuracy: 95.50%**
 - Precision, Recall, F1-Score:High performance across all classes, with notable results for challenging categories like class 33 and class 18.
@@ -102,6 +102,8 @@ Classification Report:
 The confusion matrix shows the distribution of correct and incorrect predictions across different categories. Most of the misclassifications occur in challenging classes like 18 and 33.
 
 
+
+
 # Learning Curve
  
 ![Learning Curve](images/lc.png)
@@ -109,11 +111,16 @@ The confusion matrix shows the distribution of correct and incorrect predictions
 The learning curve indicates that the model performs consistently as the training size increases. A small gap between training and cross-validation scores indicates minimal overfitting.
 
 
+
+
 # Feature Importance
  
 ![Feature Importance](images/importance.png)
 
 This graph shows the importance of different features (such as soil pH, temperature, etc.) in making accurate predictions. Higher bars indicate more influential features.
+
+
+
 
 # Prediction Error Distribution
  
@@ -123,6 +130,8 @@ The prediction error distribution chart shows the spread of errors across predic
 
 
 
-**Author: Ayush Shukla**
-**License: MIT License**
+
+
+- **Author: Ayush Shukla**
+- **License: MIT License**
 
