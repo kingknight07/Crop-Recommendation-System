@@ -2,7 +2,7 @@
 
 
 # Overview
-- This project presents a Crop Recommendation System using machine learning model Random Forest Classification, aimed at providing accurate crop recommendations based on various environmental and soil factors. The system has been built with high accuracy and includes multiple visual tools to assess its performance.
+- This project presents a Crop Recommendation System using a Machine Learning model - *Random Forest Classification*, aimed at providing accurate crop recommendations based on various environmental and soil factors. The system has been built with high accuracy and includes multiple visual tools to assess its performance.
 
 - The dataset used for this project is sourced from IEEE Data Port, provided by **Suyash Gholap, Harsh Singh, Rohan Rajesh, and Shweta Barshe**, licensed under Creative Commons Attribution.
 - SuyashGholapHarshSinghRohanRajeshShwetaBarshe
