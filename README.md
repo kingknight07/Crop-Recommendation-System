@@ -18,11 +18,11 @@
 - Classification Report: Provides detailed per-class metrics.
 
 # Table of Contents
-Getting Started
-Installation
-Model Performance
-Usage
-License
+- Getting Started
+- Installation
+- Model Performance
+- Usage
+- License
 
 # Getting Started
 **Prerequisites**
