@@ -27,7 +27,7 @@
 # Getting Started
 **Prerequisites**
  - Python 3.7+
- - Jupyter Notebook (optional for exploration)
+ - Jupyter Notebook
 
 **Required libraries:**
  - pandas
