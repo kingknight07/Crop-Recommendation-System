@@ -1,7 +1,5 @@
 # Crop-Recommendation-System
 
-**Author: Ayush Shukla**
-**License: MIT License**
 
 # Overview
 - This project presents a Crop Recommendation System using machine learning model Random Forest Classification, aimed at providing accurate crop recommendations based on various environmental and soil factors. The system has been built with high accuracy and includes multiple visual tools to assess its performance.
@@ -104,23 +102,27 @@ Classification Report:
 The confusion matrix shows the distribution of correct and incorrect predictions across different categories. Most of the misclassifications occur in challenging classes like 18 and 33.
 
 
-Learning Curve
+# Learning Curve
  
 ![Learning Curve](images/lc.png)
 
 The learning curve indicates that the model performs consistently as the training size increases. A small gap between training and cross-validation scores indicates minimal overfitting.
 
 
-Feature Importance
+# Feature Importance
  
 ![Feature Importance](images/importance.png)
 
 This graph shows the importance of different features (such as soil pH, temperature, etc.) in making accurate predictions. Higher bars indicate more influential features.
 
-Prediction Error Distribution
+# Prediction Error Distribution
  
 ![Prediction Error Distribution](images/error.png)
 
 The prediction error distribution chart shows the spread of errors across predictions. The majority of predictions are accurate with minimal error.
 
+
+
+**Author: Ayush Shukla**
+**License: MIT License**
 
