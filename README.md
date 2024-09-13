@@ -99,27 +99,27 @@ Classification Report:
 
 # Confusion Matrix
 
-![Confusion Matrix](path_to_confusion_matrix_image.png)
+![Confusion Matrix](images/cm.png)
 
 The confusion matrix shows the distribution of correct and incorrect predictions across different categories. Most of the misclassifications occur in challenging classes like 18 and 33.
 
 
 Learning Curve
  
-![Learning Curve](path_to_learning_curve_image.png)
+![Learning Curve](images/lc.png)
 
 The learning curve indicates that the model performs consistently as the training size increases. A small gap between training and cross-validation scores indicates minimal overfitting.
 
 
 Feature Importance
  
-![Feature Importance](path_to_feature_importance_image.png)
+![Feature Importance](images/importance.png)
 
 This graph shows the importance of different features (such as soil pH, temperature, etc.) in making accurate predictions. Higher bars indicate more influential features.
 
 Prediction Error Distribution
  
-![Prediction Error Distribution](path_to_prediction_error_distribution_image.png)
+![Prediction Error Distribution](images/error.png)
 
 The prediction error distribution chart shows the spread of errors across predictions. The majority of predictions are accurate with minimal error.
 
